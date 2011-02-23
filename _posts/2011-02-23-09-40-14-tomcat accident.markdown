@@ -1,0 +1,7 @@
+# Tomcat #
+
+Can cause problems if you're not careful to keep things separated in memory
+
+<div class="center">
+<img src="images/pedestrian_accident.jpg" style="width:40%"/>
+</div>

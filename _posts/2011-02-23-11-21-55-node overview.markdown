@@ -1,0 +1,7 @@
+# Node.js #
+
+- Not web server, *but* stdlib includes nice, easy to use http server
+- Whole stack is async. Your code has to be too
+- Perfect for long polling / comet / websockets. Great performance / concurrency possible
+- Dumb blocking code can hang whole server
+- Async model with lots of Javascript callbacks is mindf\*\*k

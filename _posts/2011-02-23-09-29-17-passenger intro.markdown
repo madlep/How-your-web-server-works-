@@ -1,0 +1,2 @@
+# Apache / Passenger / Rails #
+Passenger is a module that lets you run Rails apps on Apache

@@ -1,0 +1,12 @@
+## Lets take a look at a few ##
+- Apache
+- Tomcat
+- Nginx
+- Passenger
+- Mongrel
+- Node.js
+- Mochiweb
+
+Lots more, but I've worked with these, and won't sound as clueless talking about them.
+
+*(Yes, I know some of those technically aren't web servers, but humour me...)*

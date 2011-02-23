@@ -1,0 +1,8 @@
+# Tomcat #
+- Basically same as Apache process model
+- Uses thread pool inside JVM
+- Acceptor thread delegates to worker threads
+- This is lighter on resource usage
+- Threads are cheaper than OS processes
+
+**Shared state concurrency is easy to screw up though**

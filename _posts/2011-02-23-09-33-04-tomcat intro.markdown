@@ -1,0 +1,12 @@
+# Tomcat #
+
+Conceptually the same as Apache
+
+Separate platforms, trains come in
+
+Can still hang with too many long requests
+
+<div class="center">
+<img src="images/flinders_above.jpg" style="width:50%"/>
+</div>
+

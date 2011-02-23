@@ -1,0 +1,9 @@
+# What happens when a request arrives? #
+
+Pixies and/or gnomes not acceptable explanation
+
+<div class="center">
+<img src="images/gnomes.jpg" style="width:40%"/>
+</div>
+
+Need to understand how requests are queued, multiplexed, managed

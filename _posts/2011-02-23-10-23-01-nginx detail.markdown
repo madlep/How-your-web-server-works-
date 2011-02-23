@@ -1,0 +1,6 @@
+# Nginx #
+- Light, single threaded, event driven (waiter)
+- Can do huge request concurrency
+- Does simple stuff super fast (static file serving etc)
+- Delegates complicated activity to background workers (Passenger / Mongrel etc)
+- Great for long polling / comet / websockets

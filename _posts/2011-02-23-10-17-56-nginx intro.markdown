@@ -1,0 +1,7 @@
+Forget about trains and pedestrians for a minute
+
+Think about a waiter at a restaurant
+
+<div class="center">
+<img src="images/waiter.jpg" style="width:50%"/>
+</div>

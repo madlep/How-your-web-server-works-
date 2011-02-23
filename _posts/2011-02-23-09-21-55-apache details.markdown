@@ -1,0 +1,4 @@
+# Apache #
+- Master OS level process (conductor)
+- Spawns multiple OS level worker processes (platforms)
+- Worker processes handles requests serially
