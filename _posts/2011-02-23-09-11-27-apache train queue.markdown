@@ -3,5 +3,5 @@ If all platforms are full, trains have to queue up and wait
 
 Service slows down
 <div class="center">
-<img src="images/train_queue.jpg" style="width:60%"/>
+<img src="images/train_queue.jpg" style="max-width: 60%; width: 60%"/>
 </div>

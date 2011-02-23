@@ -1,5 +1,5 @@
 <div class="center">
-<img src="images/waiter.jpg" style="width:20%"/>
+<img src="images/waiter.jpg" style="max-width: 20%; width: 20%; "/>
 </div>
 
 - Single waiter can serve multiple customers

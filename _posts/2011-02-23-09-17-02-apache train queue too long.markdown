@@ -3,5 +3,5 @@
 You may as well just give up and go home. You're not getting in
 
 <div class="center">
-<img src="images/flinders_crowd.jpg" style="width:70%"/>
+<img src="images/flinders_crowd.jpg" style="max-width: 70%; width: 70%; "/>
 </div>

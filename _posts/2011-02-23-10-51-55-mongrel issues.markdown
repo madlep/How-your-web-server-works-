@@ -7,5 +7,5 @@ Means more monitoring/restarting required when slow requests block it up
 Restart kills all requests in queue for mongrel. Users see errors as a result
 
 <div class="center">
-<img src="images/failwhale.png" style="width:40%" />
+<img src="images/failwhale.png" style="max-width: 40%; width: 40%; " />
 </div>

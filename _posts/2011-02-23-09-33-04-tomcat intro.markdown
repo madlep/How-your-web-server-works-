@@ -7,6 +7,6 @@ Separate platforms, trains come in
 Can still hang with too many long requests
 
 <div class="center">
-<img src="images/flinders_above.jpg" style="width:50%"/>
+<img src="images/flinders_above.jpg" style="max-width: 50%; width: 50%; "/>
 </div>
 

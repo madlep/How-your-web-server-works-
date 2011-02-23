@@ -1,7 +1,7 @@
 ## Shared state concurrency bugs will bite you in the ass ##
 
 <div class="center">
-<img src="images/train_wreck.jpg" style="width:30%"/>
+<img src="images/train_wreck.jpg" style="max-width: 30%; width: 30%; "/>
 </div>
 
 Well, maybe not as dramaticly. *You wish*

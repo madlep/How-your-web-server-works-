@@ -1,7 +1,7 @@
 # Mochiweb #
 
 <div class="center">
-<img src="images/lots_trains.jpg" style="width:45%"/>
+<img src="images/lots_trains.jpg" style="max-width: 45%; width: 45%; "/>
 </div>
 
 Lets you build millions of "train platforms"
